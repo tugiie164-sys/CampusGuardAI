@@ -1,0 +1,6 @@
+{
+  "name": "CampusGuard AI",
+  "description": "Smart-campus connectivity, defensive security, IoT and student-support platform powered by the Campus Connectivity Observatory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
